@@ -1,0 +1,4 @@
+repository "ClimateWarrior1.1@ssl://wechat_os_qy06xht9v299jhar7_iol6_by@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/lucas2024123" 
+     
